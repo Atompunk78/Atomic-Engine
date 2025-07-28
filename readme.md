@@ -168,6 +168,8 @@ Mainly for internal use or performance-critical logic.
 
 Efficient helper functions for core tasks.
 
+---
+
 ### Pressed
 
 Check if a button is currently being pressed (i.e. its GPIO pin is low).  
